@@ -1,2 +1,2 @@
-# nl-ng-barebones
-A Barebones Angular Starter
+# nl-ng-translate
+Angular SPA with dynamic language translation.
